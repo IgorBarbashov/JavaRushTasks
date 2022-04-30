@@ -1,0 +1,8 @@
+package com.javarush.task.pro.task07.task0703;
+
+public class Solution {
+    byte b = Byte.MIN_VALUE;
+    short s = Short.MIN_VALUE;
+    int i = Integer.MIN_VALUE;
+    long l = Long.MIN_VALUE;
+}
